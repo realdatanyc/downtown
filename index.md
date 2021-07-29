@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Downtown Directory
 
 You can use the [editor on GitHub](https://github.com/realdatanyc/downtown/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
